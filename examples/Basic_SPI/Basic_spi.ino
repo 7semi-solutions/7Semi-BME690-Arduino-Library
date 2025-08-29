@@ -1,5 +1,5 @@
 /************************************************************
- * @file    Basic_I2C.ino
+ * @file    Basic_spi.ino
  * @author  7semi
  * @date    2025-07-09
  * @version 1.0.0
