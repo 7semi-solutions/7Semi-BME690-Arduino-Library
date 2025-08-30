@@ -5,14 +5,14 @@
  * @version 1.0.0
  * @license MIT
  * 
- * @brief Example sketch to demonstrate BME690_7semi library in I2C mode.
+ * @brief Example sketch to demonstrate BME690_7semi library in SPI mode.
  * 
- * This sketch initializes the BME690 sensor using I2C interface,
+ * This sketch initializes the BME690 sensor using the SPI interface,
  * reads temperature, pressure, humidity, and gas resistance,
  * and prints them to the Serial Monitor.
  * 
  * Usage:
- * - Connect BME690 sensor to I2C (default address 0x76 or 0x77).
+ * - Connect BME690 sensor to SPI (use CS pin 10 in this example).
  * - Upload and open Serial Monitor at 115200 baud.
  * 
  * Arduino wrapper and enhancements by 7semi.
