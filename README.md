@@ -12,7 +12,7 @@ This Arduino library provides support for the **7Semi BME690 Sensor Module**, a 
 
 - 7Semi BME690 Sensor Module  
 - Arduino-compatible board  
-- I2C connection (SDA, SCL)  
+- **I2C (SDA, SCL)** or **SPI (MOSI, MISO, SCK, CS)** connection  
 
 ---
 
