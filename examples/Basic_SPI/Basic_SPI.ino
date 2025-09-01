@@ -1,8 +1,8 @@
 /************************************************************
- * @file    Basic_spi.ino
- * @author  7semi
+ * @file   Basic_SPI.ino
+ * @author  7Semi
  * @date    2025-07-09
- * @version 1.0.0
+ * @version 1.0.1
  * @license MIT
  * 
  * @brief Example sketch to demonstrate BME690_7semi library in SPI mode.
